@@ -59,4 +59,5 @@ const width = screen.width;
             Waku Waku!
         </div>
     </div>
+    <img src="https://i.imgur.com/gndhyjZ.jpg" style="width: 1000px" />
 </template>
